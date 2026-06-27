@@ -1,5 +1,6 @@
 # Certifications
 A centralised repository containing my completed certifications and their associated completion documents.
+<br> </br>
 
 ## AWS Certified Cloud Practitioner (CLF-C02) 
 Issued by Amazon Web Services Training and Certification. The official details for this certification can be found on the AWS certification website - [Official AWS Certification Overview.](https://aws.amazon.com/certification/certified-cloud-practitioner/)
@@ -13,4 +14,20 @@ The documents for my completion of this certification, including Credly badge, o
 Official AWS Certified Cloud Practitioner (CLF-C02) - [Credential Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/5f7cbd9438a54449888965eba041b43e)
 
 > Issue Date: *March 27, 2026*  
+> Expiration Date: *June 26, 2029*
+
+<br> </br>
+
+## AWS Certified Solutions Architect – Associate (SAA-C03)  
+Issued by Amazon Web Services Training and Certification. The official details for this certification can be found on the AWS certification website - [Official AWS Certification Overview.](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+The documents for my completion of this certification, including Credly badge, official certificate, and exam results, are stored in the directory SAA-C03 under AWS - [Official AWS Certification Documents.](./AWS/SAA-C03/)
+
+- Certificate of completion - [link](./AWS/SAA-C03/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
+- Notice of exam results - [link](./AWS/SAA-C03/AWS%20Certified%20Solutions%20Architect%20-%20Associate.pdf)
+- Official Credly badge - [link](https://www.credly.com/badges/726389fa-4441-4920-90f8-64151a17007f)
+
+Official AWS Certified Solutions Architect – Associate (SAA-C03) - [Credential Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/3240c8e6ed0f496ab8044c3f83ff55ca)
+
+> Issue Date: *June 26, 2026*  
 > Expiration Date: *June 26, 2029*
