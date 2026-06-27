@@ -17,7 +17,7 @@ Official AWS Certified Cloud Practitioner (CLF-C02) - [Credential Verification](
 > Issue Date: *March 27, 2026*  
 > Expiration Date: *June 26, 2029*
 
-<br> </br>
+<br>
 
 ## AWS Certified Solutions Architect – Associate (SAA-C03)  
 Issued by Amazon Web Services Training and Certification. The official details for this certification can be found on the AWS certification website - [Official AWS Certification Overview.](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
