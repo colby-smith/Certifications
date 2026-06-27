@@ -2,7 +2,8 @@
 A centralised repository containing my completed certification certificates, verification documents, exam results and associated accolades.
 <br> </br>
 <p align="left"> <img src="./AWS/CLF-C02/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150" style="margin-right: 12px;" /> <img src="./AWS/SAA-C03/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="150" /> </p>
-<br> </br>
+<br>
+
 ## AWS Certified Cloud Practitioner (CLF-C02) 
 Issued by Amazon Web Services Training and Certification. The official details for this certification can be found on the AWS certification website - [Official AWS Certification Overview.](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
