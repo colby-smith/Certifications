@@ -10,7 +10,7 @@ The documents for my completion of this certification, including Credly badge, o
 - Notice of exam results - [link](./AWS/CLF-C02/AWS%20Certified%20Cloud%20Practitioner.pdf)
 - Official Credly badge - [link](https://www.credly.com/badges/795a38a2-3b10-40cc-9210-69f62f2ff2a2)
 
-> Issue Date: *March 27, 2026*  
-> Expiration Date: *March 27, 2029*
-
 Official AWS Certified Cloud Practitioner (CLF-C02) - [Credential Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/5f7cbd9438a54449888965eba041b43e)
+
+> Issue Date: *March 27, 2026*  
+> Expiration Date: *June 26, 2029*
